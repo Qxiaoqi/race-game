@@ -9,6 +9,7 @@
 #### 场景1
 
 ![](https://file-1305436646.cos.ap-nanjing.myqcloud.com/github-img%2Frace-game-1.JPEG)
+![](https://file-1305436646.cos.ap-nanjing.myqcloud.com/github-img%2Frace-game-2.JPEG)
 
 #### 场景2
 
