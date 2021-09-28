@@ -8,14 +8,16 @@
 
 #### 场景1
 
-![](https://file-1305436646.cos.ap-nanjing.myqcloud.com/github-img%2Frace-game-1.JPEG)
-![](https://file-1305436646.cos.ap-nanjing.myqcloud.com/github-img%2Frace-game-2.JPEG)
+![](./assets/race-game-1.jpeg)
+![](./assets/race-game-2.jpeg)
 
 #### 场景2
 
-![](https://file-1305436646.cos.ap-nanjing.myqcloud.com/github-img%2Frace-game-3.JPEG)
-![](https://file-1305436646.cos.ap-nanjing.myqcloud.com/github-img%2Frace-game-4.JPEG)
+![](./assets/race-game-3.jpeg)
+![](./assets/race-game-4.jpeg)
 
 #### 人物
-![](https://file-1305436646.cos.ap-nanjing.myqcloud.com/github-img%2Frace-game-5.PNG)
+
+![](./assets/race-game-5.png)
+
 
